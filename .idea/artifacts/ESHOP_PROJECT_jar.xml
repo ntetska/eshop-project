@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ESHOP_PROJECT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ESHOP_PROJECT_jar</output-path>
+    <root id="archive" name="ESHOP_PROJECT.jar">
+      <element id="module-output" name="ESHOP_PROJECT" />
+    </root>
+  </artifact>
+</component>
